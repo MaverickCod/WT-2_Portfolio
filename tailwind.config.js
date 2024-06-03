@@ -5,6 +5,7 @@ module.exports = {
     fontFamily : {
       sign :["Great Vibes"],
     },
+    
   },
   plugins: [],
 }
